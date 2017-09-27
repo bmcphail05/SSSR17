@@ -22,13 +22,15 @@ October 14, 2017
 **How do we explain the emergence of a social hierarchy of religious groups?**
 
 * **Fair Shares Theory**
+
 Religion is a basis for unequal access to power, privilege, and prestige.
 
   * _Necessary Conditions_:
+  *
     1) religious prejudice
 
     2) competition
-    
+
     3) differential power
 
 ---
