@@ -50,9 +50,7 @@ _Hypothesis_: Due to the political privilege of atheism, religiosity in China is
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/rel_waffle.png&size=90%
 
 
----
-### Results Regression Coefficients
-
+---?image=https://github.com/bmcphail05/SSSR17/blob/master/coefficients.png&size=90%
 
 ---
 ### Conclusions
