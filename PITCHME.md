@@ -6,7 +6,7 @@
 
 **Brian McPhail**
 
-Purdue University | Dept. of Sociology
+Purdue University  |  Dept. of Sociology
 
 October 14, 2017
 
@@ -20,16 +20,11 @@ October 14, 2017
 
 ---
 **How do we explain the emergence of a social hierarchy of religious groups?**
-
+<br>
+<br>
 * **Fair Shares Theory**: Religion is a basis for unequal access to power, privilege, and prestige.
 
-  * _Necessary Conditions_:
-
-    1) religious prejudice
-
-    2) competition
-
-    3) differential power
+  * _Necessary Conditions_: 1) religious prejudice, 2) competition, 3) differential power
 
 ---
 **Growth of religion and inequality in China**
@@ -39,7 +34,9 @@ October 14, 2017
 
 ---
 **Is there a "religion penalty" in China whereby the income of religious believers is lower than that of atheists?**
-
+<br>
+<br>
+<br>
 **Hypothesis:** Religiosity in China will be negatively associated with income.
 
 
