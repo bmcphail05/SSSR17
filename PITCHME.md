@@ -8,8 +8,7 @@ Religiosity in Contemporary China**
 Purdue University  |  Dept. of Sociology  
 SSSR Section E-8: October 14, 2017
 ---
-**Ranking Religious Groups in US**
-![RankingFaiths](images/spaghetti.jpg)
+![RankingFaiths](https://github.com/bmcphail05/SSSR17/blob/master/USrank.png)
 
 
 
@@ -34,7 +33,7 @@ SSSR Section E-8: October 14, 2017
 <br>
 <br>
 <br>
-_Hypothesis_: Religiosity in China will be negatively associated with income.
+_Hypothesis_: Due to the political privilege of atheism, religiosity in China is negatively associated with income.
 
 
 ---
@@ -42,7 +41,7 @@ _Hypothesis_: Religiosity in China will be negatively associated with income.
 
 * 2007 Spiritual Life Study of Chinese Residents  
 (N = 7,021)
-* OLS regression
+* OLS regression, estimate effect of religion on income
 <br>
 <br>
 * _Measuring Religiosity_  
