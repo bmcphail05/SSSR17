@@ -1,18 +1,18 @@
 ## Atheist Privilege,
 ## Religious Penalty?
-**The Socioeconomic Consequences**
-**of Religiosity in Contemporary China**
-
-
+**The Socioeconomic Consequences of Religiosity in Contemporary China**
+<br>
+<br>
 
 **Brian McPhail**
 
 Purdue University | Dept. of Sociology
+
 October 14, 2017
 
 
 ---
-### Ranking Religious Groups in US
+**Ranking Religious Groups in US**
 ![RankingFaiths](images/spaghetti.jpg)
 
 
@@ -32,15 +32,15 @@ October 14, 2017
     3) differential power
 
 ---
-### Growth of religion and inequality in China
+**Growth of religion and inequality in China**
 
 ![GiniCoefficientChart](images/spaghetti.jpg)
 
 
 ---
-#### Is there a "religion penalty" in China whereby the income of religious believers is lower than that of atheists?
+**Is there a "religion penalty" in China whereby the income of religious believers is lower than that of atheists?**
 
-**Hypothesis:** Religiosity will be negatively associated with income.
+**Hypothesis:** Religiosity in China will be negatively associated with income.
 
 
 ---
