@@ -4,10 +4,8 @@
 Religiosity in Contemporary China**
 <br>
 <br>
-**Brian McPhail**
-
-Purdue University  |  Dept. of Sociology
-
+**Brian McPhail**  
+Purdue University  |  Dept. of Sociology  
 SSSR Section E-8: October 14, 2017
 ---
 **Ranking Religious Groups in US**
@@ -40,11 +38,12 @@ _Hypothesis_: Religiosity in China will be negatively associated with income.
 
 
 ---
-### Methods/Data
+### Data/Methods
 
 * 2007 Spiritual Life Study of Chinese Residents  
 (N = 7,021)
 * OLS regression
+<br>
 <br>
 * _Measuring Religiosity_  
   1. Do you have religious belief? Yes/No  
