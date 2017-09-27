@@ -4,6 +4,7 @@
 Religiosity in Contemporary China**
 <br>
 <br>
+<br>
 **Brian McPhail**  
 Purdue University  |  Dept. of Sociology  
 SSSR Section E-8: October 14, 2017
