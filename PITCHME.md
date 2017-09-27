@@ -46,10 +46,8 @@ _Hypothesis_: Due to the political privilege of atheism, religiosity in China is
   1. Do you have religious belief? Yes/No  
   2. Religious affiliation  
   3. Strict Atheist (from 30 items)
----
-### Measuring Religiosity in China
 
-
+---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/rel_waffle.png&size=90%
 
 
 ---
