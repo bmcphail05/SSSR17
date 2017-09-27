@@ -1,9 +1,12 @@
-## Atheist Privilege, Religious Penalty?
-**The Socioeconomic Consequences of Religiosity in Contemporary China**
+## Atheist Privilege,
+## Religious Penalty?
+**The Socioeconomic Consequences**
+**of Religiosity in Contemporary China**
 
 
 
 **Brian McPhail**
+
 Purdue University | Dept. of Sociology
 October 14, 2017
 
@@ -18,15 +21,15 @@ October 14, 2017
 ---
 **How do we explain the emergence of a social hierarchy of religious groups?**
 
-**Fair Shares Theory**
-
+* **Fair Shares Theory**
 Religion is a basis for unequal access to power, privilege, and prestige.
 
-*Necessary Conditions*:
+  * _Necessary Conditions_:
+    1) religious prejudice
 
-1) religious prejudice
-2) competition
-3) differential power
+    2) competition
+    
+    3) differential power
 
 ---
 ### Growth of religion and inequality in China
