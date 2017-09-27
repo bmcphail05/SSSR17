@@ -1,16 +1,14 @@
-## Atheist Privilege,
-## Religious Penalty?
-**The Socioeconomic Consequences of Religiosity in Contemporary China**
+## Atheist Privilege,  
+##Religious Penalty?
+**The Socioeconomic Consequences of  
+Religiosity in Contemporary China**
 <br>
 <br>
-
 **Brian McPhail**
 
 Purdue University  |  Dept. of Sociology
 
-October 14, 2017
-
-
+SSSR Section E-8: October 14, 2017
 ---
 **Ranking Religious Groups in US**
 ![RankingFaiths](images/spaghetti.jpg)
@@ -23,7 +21,7 @@ October 14, 2017
 <br>
 <br>
 * **Fair Shares Theory**
-  * Religion is a basis for unequal access to power, privilege, and prestige (Davidson and Pyle 2006; 2008).
+  * Religion is a basis for unequal access to power, privilege, and prestige (Davidson & Pyle 2006; 2008).
   <br>
   * _Necessary Conditions_: 1) religious prejudice, 2) competition, 3) differential power
 
@@ -44,8 +42,9 @@ _Hypothesis_: Religiosity in China will be negatively associated with income.
 ---
 ### Methods/Data
 
-* 2007 Spiritual Life Study of Chinese Residents (N = 7,021)
-* OLS regression, estimate the effect of religiosity on annual personal income
+* 2007 Spiritual Life Study of Chinese Residents  
+(N = 7,021)
+* OLS regression
 <br>
 * _Measuring Religiosity_  
   1. Do you have religious belief? Yes/No  
