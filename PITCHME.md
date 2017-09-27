@@ -27,7 +27,7 @@ SSSR Section E-8: October 14, 2017
 
 
 ---
-**Is there a "religion penalty" in China whereby the income of religious believers is lower than that of atheists?**
+**Has China's history of religious suppression and the privileged position of atheism in China's political system resulted in socioeconomic disadvantages for religious people?**
 <br>
 <br>
 <br>
