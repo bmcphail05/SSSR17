@@ -43,8 +43,18 @@ October 14, 2017
 ---
 ### Methods/Data
 
+* 2007 Spiritual Life Study of Chinese Residents (N = 7,021)
+* OLS regression, estimate the effect of religiosity on annual personal income
+<br>
+* _Measuring Religiosity_
+  1) Do you have religious belief? Yes/No
+  2) Religious affiliation
+  3) Strict Atheist (from 30 items)
 ---
 ### Measuring Religiosity in China
+
+
+
 
 ---
 ### Results Regression Coefficients
