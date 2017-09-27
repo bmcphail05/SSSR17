@@ -8,7 +8,7 @@ Religiosity in Contemporary China**
 Purdue University  |  Dept. of Sociology  
 SSSR Section E-8: October 14, 2017
 ---
-![RankingFaiths](https://github.com/bmcphail05/SSSR17/blob/master/USrank.png)
+![RankingFaiths](https://raw.githubusercontent.com/bmcphail05/SSSR17/master/USrank.png)
 
 
 
