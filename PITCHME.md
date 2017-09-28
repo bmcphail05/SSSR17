@@ -1,4 +1,5 @@
-### Atheist Privilege, Religious Penalty?
+## Atheist Privilege,  
+## Religious Penalty?
 **The Socioeconomic Consequences of  
 Religiosity in Contemporary China**
 <br>
