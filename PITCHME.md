@@ -1,5 +1,4 @@
-## Atheist Privilege,  
-## Religious Penalty?
+### Atheist Privilege, Religious Penalty?
 **The Socioeconomic Consequences of  
 Religiosity in Contemporary China**
 <br>
@@ -8,8 +7,9 @@ SSSR Section E-8: October 14, 2017
 <br>
 <br>
 **Brian McPhail**  
+Center on Religion and Chinese Society  
 Purdue University  
-Center on Religion and Chinese Society
+
 
 
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/USrank.png&size=90%
