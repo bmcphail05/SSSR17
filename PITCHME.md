@@ -3,11 +3,12 @@
 **The Socioeconomic Consequences of  
 Religiosity in Contemporary China**
 <br>
+<br>
 SSSR Section E-8: October 14, 2017
 <br>
 <br>
 **Brian McPhail**  
-Purdue University
+Purdue University  
 Center on Religion and Chinese Society
 
 
