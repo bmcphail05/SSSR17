@@ -4,7 +4,7 @@
 Religiosity in Contemporary China**
 <br>
 <br>
-SSSR Section E-8: October 14, 2017
+October 14, 2017
 <br>
 <br>
 **Brian McPhail**    
@@ -24,10 +24,9 @@ Purdue University
   * _Necessary Conditions_: 1) religious prejudice, 2) competition, 3) differential power
 
 ---
-**Estimates of Religious Growth in China**
+**2010 Estimates of Religion in China**
 
-
-Religion | % of 2010 Population
+Religion | % of pop.
 ------------ | -------------
 None | 52%
 Folk Religion | 22%
@@ -37,8 +36,6 @@ Islam | 2%
 Other | 1%
 
 > Source: The Future of World Religions: Population Growth Projections, 2010-2050
-
-
 ---
 **Has China's history of religious suppression and the privileged position of atheism in China's political system resulted in socioeconomic disadvantages for religious people?**
 <br>
