@@ -27,7 +27,7 @@ Purdue University
 **2010 Estimates of Religion in China**
 
 Religion | % of pop.
------------- | -------------
+------------ | :-------------:
 None | 52%
 Folk Religion | 22%
 Buddhism | 18%
