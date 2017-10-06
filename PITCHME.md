@@ -35,7 +35,9 @@ Christianity | 5%
 Islam | 2%
 Other | 1%
 
- <span style=font-size: 2em;">Source: The Future of World Religions: Population Growth Projections, 2010-2050</span>
+<span style="font-size: 2em"; font-weight: bold; color:#ffffff"><span color:##e49436">Git</span>Pitch</span>!
+
+ <span style=font-size: 2em">Source: The Future of World Religions: Population Growth Projections, 2010-2050</span>
 ---
 **Has China's history of religious suppression and the privileged position of atheism in China's political system resulted in socioeconomic disadvantages for religious people?**
 <br>
