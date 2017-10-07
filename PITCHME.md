@@ -37,6 +37,10 @@ Other | 1%
 
 Source: Pew 2012
 ---
+
+---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/gini.png&size=90%
+
+---
 **Has China's history of religious suppression and the privileged position of atheism in China's political system resulted in socioeconomic disadvantages for religious people?**
 <br>
 <br>
