@@ -15,7 +15,7 @@ Purdue University
 
 
 ---
-**How do we explain the emergence of a social hierarchy of religious groups?**
+**How does a social hierarchy of religious groups emerge?**
 <br>
 <br>
 * **Fair Shares Theory**
@@ -40,10 +40,10 @@ Source: Pew Global Religious Futures
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/gini.png&size=90%
 
 ---
-_Necessary Conditions_:  
-1) Party-State's prejudice against religion  
-2) High level of religious diversity = competition  
-3) Power consolidated in hands of atheism Communist Party
+* _Necessary Conditions_:  
+  1) Party-State's prejudice against religion  
+  2) High level of religious diversity = competition  
+  3) Power consolidated in hands of atheist Party
 
 ---
 **Has China's history of religious suppression and the privileged position of atheism in China's political system resulted in socioeconomic disadvantages for religious people?**
@@ -78,6 +78,8 @@ _Hypothesis_: Due to the political privilege of atheism, religiosity in China is
   2) *Black* - getting an education  
   3) *Gold* - going into business
 <br>
+<br>
 * Modern China is young and extremely dynamic
+<br>
 <br>
 * Direction of the effect (Ex. Buddhism)
