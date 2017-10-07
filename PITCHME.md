@@ -50,7 +50,7 @@ Source: Pew Global Religious Futures
 <br>
 <br>
 <br>
-_Hypothesis_: Due to the political privilege of atheism, religiosity in China is negatively associated with income.
+* _Hypothesis_: Due to the political privilege of atheism, religiosity in China is negatively associated with income.
 
 ---
 ### Data/Methods
@@ -79,7 +79,7 @@ _Hypothesis_: Due to the political privilege of atheism, religiosity in China is
   3) *Gold* - going into business
 <br>
 <br>
-* Modern China is young and extremely dynamic
+* Modern China is young and dynamic
 <br>
 <br>
 * Direction of the effect (Ex. Buddhism)
