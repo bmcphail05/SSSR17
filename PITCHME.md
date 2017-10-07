@@ -39,6 +39,7 @@ Source: Pew Global Religious Futures
 
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/gini.png&size=90%
 
+---
 _Necessary Conditions_:
   1) Party-State's prejudice against religion  
   2) High level of religious diversity = competition
@@ -72,9 +73,9 @@ _Hypothesis_: Due to the political privilege of atheism, religiosity in China is
 ---
 ### Discussion
 
-* **3 Paths to Success** (Dickson & Rublee 2000)
-  1) *Red* - joining the Communist Party
-  2) *Black* - getting an education
+* **3 Paths to Success** (Dickson & Rublee 2000)  
+  1) *Red* - joining the Communist Party  
+  2) *Black* - getting an education  
   3) *Gold* - going into business
 * Modern China is young and extremely dynamic
-* Direction of the effect (e.g. Rich people like Buddhism)
+* Direction of the effect (Ex. Buddhism)
