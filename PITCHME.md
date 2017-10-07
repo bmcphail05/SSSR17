@@ -35,10 +35,14 @@ Christianity | 5%
 Islam | 2%
 Other | 1%
 
-Source: Pew 2012
----
+Source: Pew Global Religious Futures
 
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/gini.png&size=90%
+
+_Necessary Conditions_:
+  1) Party-State's prejudice against religion  
+  2) High level of religious diversity = competition
+  3) Power consolidated in hands of atheism Communist Party
 
 ---
 **Has China's history of religious suppression and the privileged position of atheism in China's political system resulted in socioeconomic disadvantages for religious people?**
@@ -46,7 +50,6 @@ Source: Pew 2012
 <br>
 <br>
 _Hypothesis_: Due to the political privilege of atheism, religiosity in China is negatively associated with income.
-
 
 ---
 ### Data/Methods
@@ -67,4 +70,11 @@ _Hypothesis_: Due to the political privilege of atheism, religiosity in China is
 ---?image=https://raw.githubusercontent.com/bmcphail05/SSSR17/master/coefficients.png&size=90%
 
 ---
-### Conclusions
+### Discussion
+
+* **3 Paths to Success** (Dickson & Rublee 2000)
+  1) *Red* - joining the Communist Party
+  2) *Black* - getting an education
+  3) *Gold* - going into business
+* Modern China is young and extremely dynamic
+* Direction of the effect (e.g. Rich people like Buddhism)
